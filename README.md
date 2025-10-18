@@ -21,7 +21,6 @@ pip install requests pandas
 3. Run the script:
 python analyzer.py
 
-text
 4. Enter the Ethereum address when prompted.
 5. Open `transactions_report.csv` to view results.
 
